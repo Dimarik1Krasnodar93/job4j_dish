@@ -1,4 +1,4 @@
-package ru.job4j.Exception;
+package ru.job4j.exception;
 
 public class IdNotFoundException extends Exception {
     public IdNotFoundException() {
