@@ -1,4 +1,4 @@
-package ru.job4j.controllerAdvice;
+package ru.job4j.controlleradvice;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
